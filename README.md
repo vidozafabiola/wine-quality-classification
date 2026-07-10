@@ -8,7 +8,8 @@ Projeto desenvolvido para o **Tech Challenge – Fase 2** da Pós-Graduação em
 ## 🎥 Vídeo Executivo
 
 ▶️ **Assista à apresentação do projeto:**
-https://youtu.be/IarhLVRQj0w 
+
+[🎬 Assistir ao vídeo executivo](https://youtu.be/IarhLVRQj0w)
 
 📄 **Apresentação Executiva**
 
