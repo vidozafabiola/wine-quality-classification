@@ -5,6 +5,11 @@ Wine Quality Classification using Machine Learning | FIAP Pós-Tech Data Analyti
 
 Projeto desenvolvido para o **Tech Challenge – Fase 2** da Pós-Graduação em Data Analytics da FIAP.
 
+## 🎥 Vídeo Executivo
+
+▶️ **Assista à apresentação do projeto:**
+https://youtu.be/IarhLVRQj0w 
+
 📄 **Apresentação Executiva**
 
 ➡️ [Clique aqui para acessar a apresentação](results/apresentacao_executiva.pdf)
