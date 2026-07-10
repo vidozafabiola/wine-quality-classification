@@ -5,6 +5,10 @@ Wine Quality Classification using Machine Learning | FIAP Pós-Tech Data Analyti
 
 Projeto desenvolvido para o **Tech Challenge – Fase 2** da Pós-Graduação em Data Analytics da FIAP.
 
+📄 **Apresentação Executiva**
+
+➡️ [Clique aqui para acessar a apresentação](results/apresentacao_executiva.pdf)
+
 O objetivo deste projeto foi desenvolver modelos de Machine Learning capazes de classificar vinhos tintos em duas categorias de qualidade (baixa e alta), utilizando características físico-químicas da bebida.
 
 ---
